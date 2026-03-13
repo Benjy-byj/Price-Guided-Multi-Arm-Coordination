@@ -349,6 +349,14 @@ The online modes include:
 4. Add collision-aware joint-space trajectory generation
 5. Add synchronized multi-arm execution instead of independent waypoint chasing
 
+## Disclaimer
+
+This repository contains research code for reproducing the experiments in the paper.
+Parts of the implementation were generated with the assistance of AI coding tools.
+
+The code is provided for research purposes only and may contain bugs or incomplete
+implementations. Users should verify results before using it in production environments.
+
 ## License
 
 This project is released under the MIT License. See [LICENSE](LICENSE).
