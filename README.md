@@ -2,6 +2,10 @@
 
 A research-oriented demo for price-guided coordination in multi-arm manipulation.
 
+## Live Demo
+
+[Open the autoplay demo page](https://benjy-byj.github.io/Price-Guided-Multi-Arm-Coordination/)
+
 ## Demo Video
 
 [![Recorded demo](assets/demo-video-poster.png)](assets/demo-video.mp4)
@@ -22,13 +26,14 @@ After pushing the repository to GitHub:
 
 Your autoplay demo page will then be available at:
 
-`https://<your-github-username>.github.io/<your-repo-name>/`
+`https://benjy-byj.github.io/Price-Guided-Multi-Arm-Coordination/`
 
 Notes:
 
 - the page autoplays the demo muted by default
 - this is intentional because browsers generally only allow autoplay for muted media
 - users can unmute from the page after it opens
+- GitHub Pages may take a minute or two after the first enablement; until deployment finishes, the link can return `404`
 
 The project has two layers:
 
