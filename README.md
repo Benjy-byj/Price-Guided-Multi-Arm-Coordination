@@ -8,6 +8,28 @@ A research-oriented demo for price-guided coordination in multi-arm manipulation
 
 Click the preview image above to open the recorded demo video.
 
+## Autoplay Demo Page
+
+This repository also includes a GitHub Pages landing page at `index.html` with a
+browser-compatible autoplay setup.
+
+After pushing the repository to GitHub:
+
+1. Open `Settings -> Pages`
+2. Set `Source` to `Deploy from a branch`
+3. Select branch `main` and folder `/(root)`
+4. Save
+
+Your autoplay demo page will then be available at:
+
+`https://<your-github-username>.github.io/<your-repo-name>/`
+
+Notes:
+
+- the page autoplays the demo muted by default
+- this is intentional because browsers generally only allow autoplay for muted media
+- users can unmute from the page after it opens
+
 The project has two layers:
 
 1. Abstract planning layer
